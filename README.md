@@ -1,6 +1,6 @@
 # MATLAB Signal Visualization 📶  
 
-This repository contains MATLAB code for visualizing signals using different methods:  
+This repository contains MATLAB code for visualizing signals using different methods: 
 
 📌 What's Included?  
 - hold_plot.m → Overlaying multiple signals in one figure  
